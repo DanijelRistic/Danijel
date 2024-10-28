@@ -9,5 +9,6 @@ int main()
     }
     f();
     d();
+    printf("\nDanijel je konj!");
     return 0;
 }
